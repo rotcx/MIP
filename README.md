@@ -5,7 +5,10 @@ discrete optimization repository
 
  
 (离散)优化分享.pdf
-专著
+
+
+专著:
+
 2014_Integer Prog_Conforti-Cornuejols-Zambelli.pdf 
 2018_Book_DisjunctiveProgramming.pdf 
 50YearsIP.pdf
